@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeatifulMess.api", "BeatifulMess.api\BeatifulMess.api.csproj", "{9DB3CDF4-6347-4795-A108-511D94FA299B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DB3CDF4-6347-4795-A108-511D94FA299B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DB3CDF4-6347-4795-A108-511D94FA299B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DB3CDF4-6347-4795-A108-511D94FA299B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DB3CDF4-6347-4795-A108-511D94FA299B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68845C2E-BF67-4EF6-A5CA-D15808428C23}
+	EndGlobalSection
+EndGlobal
